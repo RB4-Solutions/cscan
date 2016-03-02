@@ -2,7 +2,7 @@
 ###
 ## Faraday Penetration Test IDE
 ## Copyright (C) 2015  Infobyte LLC (http://www.infobytesec.com/)
-## See the file 'doc/LICENSE' for the license information
+## See the file 'LICENSE' for the license information
 ###
 
 import subprocess
