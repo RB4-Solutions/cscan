@@ -1,2 +1,4 @@
 * v1.0.0 (09/23/15):
 * First release cscan tool
+* v1.0.1 (03/02/16):
+* RB4 Solutions fork
